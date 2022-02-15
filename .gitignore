@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+beam-temp*
+
+etc/
+
+share/
+
+Scripts/
+
+Lib/
+
+.ipynb_checkpoints/
+
+*.cfg
